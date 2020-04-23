@@ -1,6 +1,12 @@
 body {
-    color: darkblue;
+    color: #333;
     background-color: gainsboro;
-    text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+.conteiner {
+    width: 70%;
+    border: 1px solid gray;
+    padding: 1em;
+    margin: 0 auto;
 }
